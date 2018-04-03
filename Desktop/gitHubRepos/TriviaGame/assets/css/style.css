@@ -1,0 +1,66 @@
+.wrapper {
+    margin: 10px auto;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 7px solid red;
+    height: 650px;
+    width: 60%;
+    text-align: center;
+}
+  
+.btn {
+    position: relative;
+    bottom: -50px;
+    font-size: 45px;
+}
+
+.answerchoice {
+    border: 1px solid black;
+    border-radius: 5%;
+    width: 40%;
+    color: red;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+    background-color: white;
+}
+
+#answerblock {
+    text-align: center;
+    color: red;
+    font-size: 15px;
+}
+
+#answerblock img{
+    width: 500px;
+    height: auto;
+}
+
+#questionblock {
+    text-align: center;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+#reset {
+    visibility: visible;
+}
+
+body {
+    background-image: url("../images/boondocks.jpg");
+    background-size: cover;
+    font-family: 'Acme', sans-serif;
+}
+
+p {
+    font-size: 30px;
+    color: red;
+    font-size: bold;
+}
+
+h1 {
+    font-size: 30px;
+    color: black;
+    font-size: bold;
+}
+
+
