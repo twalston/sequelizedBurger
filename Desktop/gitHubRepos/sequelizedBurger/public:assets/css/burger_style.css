@@ -1,0 +1,66 @@
+body {
+	background-color: #FFC966;
+}
+
+a {
+	color: #EE7600;
+}
+
+h4 {
+	color: #EE7600;
+}
+
+.header-container {
+	margin-top: 40px;
+}
+
+.center-element {
+	text-align: center;
+}
+
+.form-container {
+	border: 2px solid black;
+	text-align: center;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+#cow-image {
+	max-height: 300px;
+}
+
+#head-list {
+	font-weight: bold;
+}
+
+.idea-list ul {
+	text-align: left;
+	list-style: none;
+}
+
+.input-lg {
+	border: none;
+}
+
+.individual-burger{
+	list-style: none;
+}
+
+#submit-button {
+	border-radius: 5px;
+	width: 25%;
+	height: 40px;
+	border: 2px solid #EE7600;
+	color: #EE7600;
+}
+
+#submit-button:hover {
+	background-color: #EE7600;
+	color: white;
+}
+
+.btn-light {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
